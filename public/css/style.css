@@ -1,0 +1,17 @@
+h2{
+    color: red;
+}
+
+#datashow #edit{
+    float: right;
+}
+
+body{
+    background-color: rgb(226, 226, 249);
+}
+
+#datashow .card-body{
+    border-radius: 10%;
+    /* background-color: white; */
+    box-shadow: 0 2px 4px rgba(201, 9, 9, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1);
+}
